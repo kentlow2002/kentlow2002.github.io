@@ -3,7 +3,7 @@
 }
 
 .navbar {
-  background-color: #ccffff;
+  background-color: rgb(166,177,255);
   box-shadow: none;
 }
 
@@ -20,9 +20,8 @@
 }
 
 .active {
-  color: white;
   font-weight: 500;
-  background-color: #009900;
+  background-color: rgb(202, 207, 214);
   border-radius: 10px;
 }
 
@@ -32,7 +31,7 @@
 }
 
 .active:hover {
-  color: white;
+  color: #000000;
   text-decoration: underline;
 }
 
