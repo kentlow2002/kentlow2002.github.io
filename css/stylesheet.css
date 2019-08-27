@@ -9,6 +9,7 @@
 
 .navbar-brand {
   font-size:1.5em;
+  color: #000000;
 }
 
 .nav-link {
@@ -23,6 +24,11 @@
   font-weight: 500;
   background-color: rgb(202, 207, 214);
   border-radius: 10px;
+}
+
+.navbar-brand:hover {
+  color:#000000;
+  text-decoration: underline;
 }
 
 .nav-link:hover {
