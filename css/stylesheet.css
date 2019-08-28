@@ -6,7 +6,6 @@
 
 .navbar-brand {
   font-size:1.5em;
-  font-family: inherit;
   color: rgb(255,255,255);
 }
 
@@ -14,14 +13,12 @@
   margin: auto 5px;
   font-size: 1.2em;
   font-weight: 400;
-  font-family: inherit;
   text-align: center;
   color: rgb(255, 255, 255);
 }
 
 .active {
   font-weight: 500;
-  font-family: inherit;
   background-color: rgb(202, 207, 214);
   border-radius: 10px;
 }
