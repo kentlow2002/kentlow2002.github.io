@@ -1,5 +1,5 @@
 .navbar, .narbar-nav {
-  background-color: #4d4d4d;
+  background-color: rgb(77,77,77);
   box-shadow: none;
   font-family: "Red Hat Text",sans-serif;
 }
@@ -19,8 +19,9 @@
 
 .active {
   font-weight: 500;
-  background-color: rgb(202, 207, 214);
+  background-color: rgb(238, 240, 242);
   border-radius: 10px;
+  color: rgb(0,0,0);
 }
 
 .navbar-brand:hover {
@@ -34,7 +35,7 @@
 }
 
 .active:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   text-decoration: underline;
 }
 
