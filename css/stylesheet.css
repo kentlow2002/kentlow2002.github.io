@@ -48,10 +48,10 @@
 }
 
 .content {
-  font-family: "Tahoma",sans-serif;
-  margin: 15px auto;
-  width: 80%;
+  font-family: "Ubuntu",sans-serif;
   font-size: 1.2em;
+  margin-top: 15px;
+
 }
 
 textarea {
