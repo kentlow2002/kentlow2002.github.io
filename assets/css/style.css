@@ -44,7 +44,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Ubuntu", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
 }
 
 #header h1 a, #header h1 a:hover {
@@ -161,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   color: rgba(255, 255, 255, 0.7);
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-weight: 400;
 }
 
@@ -352,7 +352,7 @@ section .container {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .section-title h2::after {
@@ -370,7 +370,7 @@ section .container {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   color: #fff;
 }
 
@@ -458,7 +458,7 @@ section .container {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   color: #fff;
 }
 
@@ -614,7 +614,7 @@ section .container {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   color: #18d26e;
   margin-bottom: 10px;
 }
